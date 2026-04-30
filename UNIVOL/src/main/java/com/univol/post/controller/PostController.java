@@ -34,7 +34,11 @@ public class PostController {
 		
 		return "post/post";
 	}
-	@GetMapping("/post/write")
+
+
+
+}
+=======	@GetMapping("/post/write")
 	public String postWrite() {
 		return "post/write";
 	}
@@ -50,4 +54,5 @@ public class PostController {
 	
 	
 	}
+
 
