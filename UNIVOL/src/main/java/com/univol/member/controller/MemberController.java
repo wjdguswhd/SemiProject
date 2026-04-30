@@ -129,8 +129,8 @@ public class MemberController {
 	
 
 	/* 후기게시판 */
-	@GetMapping("/review")
-	public String review() {
-		return "review/review";
-	}
+//	@GetMapping("/review")
+//	public String review() {
+//		return "review/review";
+//	}
 }

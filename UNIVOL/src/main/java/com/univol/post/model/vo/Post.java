@@ -24,6 +24,7 @@ public class Post {
 	private char pStatus;
 	private int likes;
 	private String userId;
+
 }
 
 
